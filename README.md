@@ -1,3 +1,3 @@
-# Introduction to Java
+# Cpp lerner
 
-This your copy of the code for the java-course. The course itself is located in the issues of this repository.
+this is my first personal code repo !!
